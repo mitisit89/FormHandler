@@ -1,0 +1,25 @@
+{
+    "_default": {
+        "1": {
+            "name": "SpamForm",
+            "spam_email": "email",
+            "spam_phone": "phone",
+            "spam_date": "date",
+            "spam_text": "text"
+        },
+        "2": {
+            "name": "CustumerForm",
+            "customer_email": "email",
+            "customer_phone": "phone",
+            "created": "date",
+            "customer_text": "text"
+        },
+        "3": {
+            "name": "UserForm",
+            "user_email": "email",
+            "user_phone": "phone",
+            "last_login": "date",
+            "spam_text": "text"
+        }
+    }
+}
