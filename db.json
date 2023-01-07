@@ -1,5 +1,5 @@
 {
-    "_default": {
+    "forms": {
         "1": {
             "name": "SpamForm",
             "spam_email": "email",
