@@ -19,7 +19,7 @@
             "user_email": "email",
             "user_phone": "phone",
             "last_login": "date",
-            "spam_text": "text"
+            "about": "text"
         }
     }
 }
